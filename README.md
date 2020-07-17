@@ -1,0 +1,2 @@
+# Triggers_Hor-rioComercial---Oracle-PL-SQL
+O repositório mostra uma solução para monitorar o movimento de operações da base de dados com Triggers. Contexto: Um sistema não pode permitir qualquer alteração no banco de dados, seja um INSERT, UPDATE OR DELETE, isso tudo foi monitorando através de trigger para bloquear isso fora do horário comercial e bloqueando nos fins de semana. Aplicação feita em Oracle PL/SQL, exemplo do aprendizado de um curso feito em 2018 de Oracle Database Completo. /* Postado agora devido revisão do exemplo e maior uso do Github por minha parte */
